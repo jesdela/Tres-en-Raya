@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tres en Raya</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="azul">Azul</string>
+    <string name="rojo">Rojo</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="seguir">¿Quieres seguir jugando?</string>
+    <string name="jug_de_nuevo">Jugar de nuevo</string>
+    <string name="salir">Salir</string>
+    <string name="salir_preg">¿Quieres salir?</string>
+    <string name="salir_sec">¿Salir de la aplicación o volver a la pantalla principal?</string>
+    <string name="pant_princ">Pantalla principal</string>
+    <string name="cerrar">Cerrar aplicación</string>
+    <string name="empate">¡Habéis empatado!</string>
+    <string name="j1">¡Ha ganado J1!</string>
+    <string name="j2">¡Ha ganado J2!</string>
+    <string name="ganado">¡Has ganado!</string>
+    <string name="perdido">¡Has perdido!</string>
+    <string name="signin_failure">signin_failure</string>
+    <string name="signin_other_error">signin_other_error</string>
+
+</resources>

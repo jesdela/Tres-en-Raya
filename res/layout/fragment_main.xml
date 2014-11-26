@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context="en.raya.MainActivity$PlaceholderFragment" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <Button
+            android:id="@+id/jugador1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1 JUGADOR"/>
+
+        <Button
+            android:id="@+id/jugador2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="74dp"
+            android:text="2 JUGADORES" />
+    </LinearLayout>
+
+</RelativeLayout>
