@@ -1,5 +1,6 @@
 Tres en Raya es la mejor versión del clásico juego tres en línea para Android. 
 ============
+![Alt text](https://lh3.ggpht.com/qNqM6SFpFayP6JAHplk1bwB_Om80uVPxpXdvsdHD-xCup691c_o_rTLkP4T6ECkMPQ=w300-rw "Tres en Raya")
 
 Tres en Raya, dos jugadores se turnan para llenar los espacios de una cuadrícula de 3×3, con las marcas X y O. El jugador que coloque tres marcas formando una línea vertical, horizontal o diagonal será quien gane el juego.
 
